@@ -1,0 +1,9 @@
+*.class
+Ex_Files_Selenium_Testing_Tools*
+geckodriver.exe
+selenium-server-standalone-3.4.0*
+
+# Package Files #
+target
+*.idea
+*.iml
